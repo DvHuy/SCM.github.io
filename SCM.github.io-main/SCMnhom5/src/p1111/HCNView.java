@@ -126,6 +126,7 @@ public class HCNView extends JFrame {
 		double a = Double.valueOf(this.textField_1.getText() + "");
 		double b = Double.valueOf(this.textField_2.getText() + "");
 		this.textField_kq.setText("Chu vi: " + 2 * (a + b) + ",  Diện tích: " + (a * b) );
+		System.out.println("hello world!!!!!!!!!!");
 	}
 	
 	

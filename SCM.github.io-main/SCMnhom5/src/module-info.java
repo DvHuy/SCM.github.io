@@ -7,5 +7,4 @@
  */
 module SCMnhom5 {
 	requires java.desktop;
-	//hoang vu
 }
